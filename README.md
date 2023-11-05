@@ -41,6 +41,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="javascript logo"  />
 </div>
+<br>
+
+<p align="left">Data Science</p>
+
+<img src="https://encurtador.com.br/UVX28" height="70" alt="html5 logo"  />
 
 ###
 
