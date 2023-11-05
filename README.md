@@ -1,4 +1,5 @@
-<h3 align="center">Hello 👋! My name is Gabriel Silva and I am from Brazil. I am currently studying the 3rd semester of computer science.</h3>
+<h3 align="center">Hello 👋! My name is Gabriel Silva and I am from Brazil. 
+I am currently studying the 3rd semester of computer science.</h3>
 
 ###
 
