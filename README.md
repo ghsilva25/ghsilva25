@@ -26,7 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="70" alt="java logo"  />
-  <img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F474074298255374977%2F&psig=AOvVaw1PotxgxLSHCXCAa9oJ7EyY&ust=1711110334004000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMj96_OshYUDFQAAAAAdAAAAABAD" height="70" alt="java logo"  />
 
 
 </div>
