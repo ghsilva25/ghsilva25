@@ -30,10 +30,6 @@
 
 ###
 
-<p align="left">Front-end:</p>
-
-###
-
 <br>
 
 <p align="left">Data Science:</p>
