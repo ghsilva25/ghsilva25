@@ -32,8 +32,7 @@
 <hr>
 
 <h4 align="left">Others</h4>
-<p align="left"><a href="#" target="_blank"><img src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9gd4eRwTfU8kQBVDDNbzFzwyJp8GuFxofT1PAxOndzpapV1xrQJ-ijM0BA_qui8iRXC0&usqp=CAU).jpeg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Q8dhODY4VwAsEoTsnwb2LuzxAR_Y5KiPjGbdjRQsbX2Hde1u3OZ3MaI0CInp0aMd3rg&usqp=CAU)"   alt="git" width="40" height="40" /></a> <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a></p>
-<hr>
+
 
 </div>
 
