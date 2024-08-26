@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🔭 Atualmente estou trabalhando na Soluções Usiminas;<br>🌱 Atualmente estou aprendendo sobre ABAP SAP, SAP PP, Python, Java, SQL, Power BI, Excel, Figma e Power Automate;<br>🤔 Procuro ajuda com automatizações em Python;<br>💬 Pergunte-me sobre Data Science; <br>📫 Como entrar em contato: gabrielsilva.sr@outlook.com</h4>
+<h4 align="left">🔭 Atualmente estou trabalhando na Caixa Consórcio;<br>🌱 Atualmente estou aprendendo sobre ABAP SAP, SAP PP, Python, Java, SQL, Power BI, Excel, Figma e Power Automate;<br>🤔 Procuro ajuda com automatizações em Python;<br>💬 Pergunte-me sobre Data Science; <br>📫 Como entrar em contato: gabrielsilva.sr@outlook.com</h4>
 
 ###
 
