@@ -39,7 +39,7 @@
 
 
 
-<p align="left"> ### Front-end:</p> 
+### Front-end:
 
 <p>
 
