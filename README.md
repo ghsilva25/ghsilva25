@@ -22,7 +22,7 @@
 
 
 
-### Back-end:
+### Back-end Developer:
 <p>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="50">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="50">
