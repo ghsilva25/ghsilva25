@@ -37,8 +37,7 @@
 <p align="left">Front-end:</p>
 <p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="50">
-<img src="https://img.icons8.com/fluency/48/000000/canva.png" alt="Canva" width="50">
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50">
 <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50">
@@ -54,13 +53,14 @@
 <p align="left"><a href="#" target="_blank"></a>  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"   alt="mysql" width="40" height="40" /></a></p>
 <hr>
 
-<p align="left">Data Tools:</p>
+<p align="left">Others:</p>
 <p>
   <img src="https://img.icons8.com/fluency/48/000000/power-automate.png" alt="Power Automate" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50">
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" width="50">
   <img src="https://img.icons8.com/color/48/sharepoint.png" alt="SharePoint" width="50">
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="50">
+  <img src="https://img.icons8.com/fluency/48/000000/canva.png" alt="Canva" width="50">
 </p>
 
 
