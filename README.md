@@ -28,7 +28,7 @@
 <p>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="50">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="50">
-  <img src="https://img.icons8.com/ios-filled/50/005a9c/sas.png" alt="SAS" width="50">
+  
 </p>
 
 
