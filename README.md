@@ -27,13 +27,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="70" alt="java logo"  />
 
-
+<br>
 
 
 <p align="left">Front-end:</p>
 
 
-### Front-end:
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="50">
 <img src="https://img.icons8.com/color/48/microsoft-power-automate.png" alt="Power Automate" width="50">
 <img src="https://img.icons8.com/fluency/48/000000/canva.png" alt="Canva" width="50">
