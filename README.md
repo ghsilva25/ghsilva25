@@ -22,10 +22,6 @@
 
 </div>
 
-###
-
-<p align="left">Back-end:</p>
-
 
 
 ### Back-end:
