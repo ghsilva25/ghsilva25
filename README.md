@@ -53,7 +53,12 @@
 <p align="left"><a href="#" target="_blank"></a>  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"   alt="mysql" width="40" height="40" /></a></p>
 <hr>
 
-<h4 align="left">Others</h4>
+### Tools:
+<p>
+  <img src="https://img.icons8.com/color/48/microsoft-power-automate.png" alt="Power Automate" width="50">
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="50">
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" width="50">
+</p>
 
 
 </div>
