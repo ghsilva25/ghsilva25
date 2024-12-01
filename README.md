@@ -26,12 +26,14 @@
 
 <p align="left">Back-end:</p>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="70" alt="java logo"  /> <br>
+
+### Back-end:
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="50">
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="50">
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50">
+<img src="https://img.icons8.com/ios-filled/50/005a9c/sas.png" alt="SAS" width="50">
+
 
 
 <p align="left">Front-end:</p> 
