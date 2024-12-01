@@ -59,6 +59,8 @@
   <img src="https://img.icons8.com/fluency/48/000000/power-automate.png" alt="Power Automate" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50">
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" width="50">
+  <img src="https://img.icons8.com/color/48/sharepoint.png" alt="SharePoint" width="50">
+
 </p>
 
 
