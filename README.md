@@ -4,9 +4,7 @@
 
 <h4 align="left">🔭 Atualmente estou trabalhando na Caixa Consórcio;<br>🌱 Atualmente estou aprendendo as seguintes linguagens: Python, Java, SQL, DAX, HTML5, CSS, javascript e LaTex;<br>🤔 Procuro ajuda com automatizações em Python e Estatística;<br>💬 Pergunte-me sobre Data Science; <br> 📫 Como entrar em contato: gabrielsilva.sr@outlook.com</h4>
 
-###
-
-<p align="left">Conecte-se comigo no LinkedIn:</p>
+### Conecte-se comigo no LinkedIn:
 
 ###
 
