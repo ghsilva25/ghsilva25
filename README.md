@@ -15,15 +15,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="82" height="70" alt="linkedin logo"  />
 
 
-<a href="https://lattes.cnpq.br/5610898198839085" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/research.png" alt="Currículo Lattes" width="50">
-</a>
-
-<a href="https://sites.google.com/view/ghsilva25/in%C3%ADcio" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/google-sites.png" alt="Portfólio Google Sites" width="50">
-</a>
-
-
   
   </a>
 
