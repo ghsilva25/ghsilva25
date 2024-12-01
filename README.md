@@ -23,6 +23,8 @@
 
 
 ### Linguagens e Ferramentas:
+
+<p align="left">Back-end:</p>
 <p>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="50">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="50">
@@ -33,8 +35,7 @@
 
 
 
-### Front-end Developer:
-
+<p align="left">Front-end:</p>
 <p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="50">
@@ -49,7 +50,7 @@
 
 
 
-### Database:
+<p align="left">Database:</p>
 <p align="left"><a href="#" target="_blank"></a>  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"   alt="mysql" width="40" height="40" /></a></p>
 <hr>
 
