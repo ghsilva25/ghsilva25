@@ -49,7 +49,7 @@
 
 
 
-<h4 align="left">Databases</h4>
+### Database:
 <p align="left"><a href="#" target="_blank"></a>  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"   alt="mysql" width="40" height="40" /></a></p>
 <hr>
 
