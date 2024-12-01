@@ -54,7 +54,7 @@
 <p align="left"><a href="#" target="_blank"></a>  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"   alt="mysql" width="40" height="40" /></a></p>
 <hr>
 
-### Tools:
+<p align="left">Data Tools:</p>
 <p>
   <img src="https://img.icons8.com/fluency/48/000000/power-automate.png" alt="Power Automate" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50">
