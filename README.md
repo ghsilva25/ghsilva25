@@ -28,14 +28,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="70" alt="java logo"  />
 
 
+
+
 <p align="left">Front-end:</p>
 
 ###
 
-<div align="left">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg]" height="70" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="70" alt="java logo"  />
+<img src="https://creazilla.com/nodes/3236765-figma-icon" alt="Figma" width="50"/>
+<img src="https://icons8.de/icon/kTTt25v6Drpd/microsoft-power-automate-2020" alt="Power Automate" width="50"/>
+<img src="https://freelogopng.com/canva-logo-png" alt="Canva" width="50"/>
+<img src="https://logodownload.org/css3-logo/css-3-logo/" alt="CSS" width="50"/>
+<img src="https://icon-library.com/icon/html5-icon-png-1.html" alt="HTML5" width="50"/>
 
 
 
