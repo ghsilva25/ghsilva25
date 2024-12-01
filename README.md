@@ -27,6 +27,23 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="70" alt="java logo"  />
 
+
+<p align="left">Front-end:</p>
+
+###
+
+<div align="left">
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://creazilla.com/media/icon/3236765/figma)" height="70" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="70" alt="java logo"  />
+
+
+
+
+
+
+
+
 <h4 align="left">Databases</h4>
 <p align="left"><a href="#" target="_blank"></a>  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"   alt="mysql" width="40" height="40" /></a></p>
 <hr>
