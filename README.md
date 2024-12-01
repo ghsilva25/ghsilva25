@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🔭 Atualmente estou trabalhando na Caixa Consórcio;<br>🌱 Atualmente estou aprendendo as seguintes linguagens: Python, Java, SQL, DAX, Power Automate, HTML5, CSS, javascript e LaTex;<br>🤔 Procuro ajuda com automatizações em Python e Estatística;<br>💬 Pergunte-me sobre Data Science; <br> 📫 Como entrar em contato: gabrielsilva.sr@outlook.com</h4>
+<h4 align="left">🔭 Atualmente estou trabalhando na Caixa Consórcio;<br>🌱 Atualmente estou aprendendo as seguintes linguagens: Python, Java, SQL, DAX, HTML5, CSS, javascript e LaTex;<br>🤔 Procuro ajuda com automatizações em Python e Estatística;<br>💬 Pergunte-me sobre Data Science; <br> 📫 Como entrar em contato: gabrielsilva.sr@outlook.com</h4>
 
 ###
 
@@ -14,6 +14,17 @@
   <a href="https://www.linkedin.com/in/gabriel-henrique-silva-ghs25/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="82" height="70" alt="linkedin logo"  />
   </a>
+
+  ### Links Importantes:
+
+<a href="https://lattes.cnpq.br/5610898198839085" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/CNPq-logo.png" alt="Currículo Lattes" width="100">
+</a>
+
+<a href="https://sites.google.com/view/ghsilva25/in%C3%ADcio" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Google_Sites.svg/512px-Google_Sites.svg.png" alt="Portfólio Google Sites" width="100">
+</a>
+
 </div>
 
 ###
