@@ -33,7 +33,7 @@
 
 
 
-### Front-end:
+### Front-end Developer:
 
 <p>
 
