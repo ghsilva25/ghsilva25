@@ -36,8 +36,8 @@
 
 ### Front-end:
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Power_Automate.svg" alt="Power Automate" width="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Canva_Logo.png" alt="Canva" width="50">
+<img src="https://img.icons8.com/fluency/48/000000/power-automate.png" alt="Power Automate" width="50">
+<img src="https://img.icons8.com/fluency/48/000000/canva.png" alt="Canva" width="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50">
 
